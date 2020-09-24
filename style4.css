@@ -1,0 +1,63 @@
+body{
+background-color:pink;
+}
+img{
+width:400px;
+
+}
+h1{
+margin:50px;
+display:flex;
+}
+.head { background-color:#333;
+color:white;
+border: 3px solid white;
+margin-top: none;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: gray;
+}
+.text { background-color:#333;
+ color: white;
+ font-size:50px;
+ border: 3px solid white;
+ padding: 40px;
+ }
+ 
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-size: 25px;
+}
+ footer {
+ background-color: #333;
+ color:white;
+ text-align: right;
+ padding: 11px;
+ }
+ .paragraph {
+	 margin-right: 25px;
+	 font-size: 20px;
+ }
+
+.contact-picture {
+	margin-left: 20px;
+}
+.columns { display: flex;
+flex-direction: row;}
+
+ 

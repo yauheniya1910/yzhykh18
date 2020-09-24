@@ -1,0 +1,69 @@
+body{
+background-color:pink;
+}
+img{
+width:500px;
+margin-left: 100px;
+}
+h1{
+margin:50px;
+display:flex;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-size: 25px;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: gray;
+}
+.columns { 
+ display: flex;
+ flex-direction: row;
+ margin-top: 30px;
+ border: none;}
+ footer {
+ background-color: #333;
+ color:white;
+ text-align: right;
+ padding: 11px;
+ }
+ .paragraph {
+	 margin-right: 25px;
+	 font-size: 20px;
+ }
+.mar {
+	margin-left: 50px;
+}
+.text { 
+ background-color:  #333;
+ color: white;
+ font-size:25px;
+ border: 3px solid white;
+ padding: 60px;
+ }
+ 
+.head { background-color:#333;
+color:white;
+border: 3px solid white;
+margin-top: none;}
+
+ 
+#mytravels {margin-top: 10px; 
+ border: none;
+ color: white;}
+ a { color: white;}
+  
